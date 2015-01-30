@@ -124,6 +124,12 @@ a.btn-social.btn-outline:hover {
     border-color: rgb(255,127,0);
 }
 
+a.btn-social.btn-outline:visited {
+    color: #FFF;
+    border-color: #FFF;
+}
+
+
 /* BUTTONS */
 
 #buttons a{
